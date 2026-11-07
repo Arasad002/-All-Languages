@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer components{
+    .bg-deepblue{
+        background-color: #01052d;
+    }
+    .bg-lightgreen{
+        background-color: #61CEA6;
+    }
+    .text-deepblue{
+        color: #01052d;
+    }
+    .text-lightgreen{
+        color: #61CEA6;
+    }
+}
